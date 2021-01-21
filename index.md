@@ -7,7 +7,7 @@
       <p><b>Political Status: Member of the Chinese Communist Youth League</b></p >
       <p><b>E-mail: chzhang19@hust.edu.cn</b></p >
       <p><b>TEL: (+86) 156-7124-3818</b></p >
-  </td>
+    </td>
     <td width="25%">
       < img src="/me.JPG" width="100%">
     </td>
