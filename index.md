@@ -9,7 +9,7 @@
       <p><b>TEL: (+86) 156-7124-3818</b></p >
     </td>
     <td width="25%">
-      < img src="/me.JPG",width="100%">
+      <img src="/me.JPG",width="100%">
     </td>
   </tr>
 </table>
